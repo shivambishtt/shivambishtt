@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Bisht</h1>
-<h3 align="center">Frontend developer from India looking for collaboration and conenction.</h3>
+<h3 align="center">Frontend developer from India, open to collaboration and connecting with like-minded creators.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivambishtt&label=Profile%20views&color=0e75b6&style=flat" alt="shivambishtt" /> </p>
 
