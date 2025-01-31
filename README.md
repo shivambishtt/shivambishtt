@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivam Bisht</h1>
-<h3 align="center">Frontend Developer | React Enthusiast</h3>
+<h1 align="center" style="font-size: 36px;">Hi 👋, I'm Shivam Bisht</h1>
+<h3 align="center" style="font-size: 24px;">Frontend Developer | React Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivambishtt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -52,17 +52,25 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivambishtt&show_icons=true&theme=onedark&bg_color=151515&title_color=ff5555&text_color=ffffff&icon_color=ffcc00" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivambishtt&theme=onedark&background=151515&ring=ff5555&fire=ffcc00&currStreakLabel=ff5555" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambishtt&layout=compact&theme=onedark&bg_color=151515&title_color=ff5555&text_color=ffffff" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shivambishtt&show_icons=true&theme=onedark&bg_color=151515&title_color=ff5555&text_color=ffffff&icon_color=ffcc00" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivambishtt&theme=onedark&background=151515&ring=ff5555&fire=ffcc00&currStreakLabel=ff5555" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambishtt&layout=compact&theme=onedark&bg_color=151515&title_color=ff5555&text_color=ffffff" alt="Top Languages" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-🔥 **Always open to learning and building amazing projects!** 🚀  
+🔥 **Always open to learning and building amazing projects!** 🚀 
