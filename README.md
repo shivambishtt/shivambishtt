@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 36px;">Hi 👋, I'm Shivam Bisht</h1>
+<h1 align="center" style="font-size: 36px;">Hi 👋, I'm Shivam </h1>
 <h3 align="center" style="font-size: 24px;">Frontend Developer | React Enthusiast</h3>
 
 <p align="center">
