@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🔭 Currently exploring **Backend in-depth**  
 - 🌱 Learning **TypeScript, Socket.io, WebRTC, PostgreSQL, Testing Frameworks**  
-- 👯 Open to collaborating on **Open-source projects (MERN stack || React + TS)**  
+- 👯 Open to collaborating on **Open-source projects (MERN || React + TS)**  
 - 🤝 Need help with **fixes and bugs in the React Job Portal**  
 - 💬 Ask me about **React, JavaScript, Typescript**  
 - 📫 Reach me at **rajshivam2745@gmail.com**  
