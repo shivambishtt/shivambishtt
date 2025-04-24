@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently exploring **Backend and Next.TS In-depth**  
-- 🌱 Learning **TypeScript, Socket.io, WebRTC, PostgreSQL, Testing Frameworks**  
+- 🔭 Currently exploring **Backend and Next.ts In-depth**  
+- 🌱 Learning **TypeScript, Socket.IO, WebRTC, PostgreSQL, Testing Frameworks**  
 - 👯 Open to collaborating on **Open-source projects (MERN || React + TS)**  
 - 🤝 Need help with **fixes and bugs in the React Job Portal**  
 - 💬 Ask me about **React, JavaScript, Typescript**  
