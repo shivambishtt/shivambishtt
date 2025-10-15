@@ -10,12 +10,12 @@
 
 ### 🚀 About Me
 - 🔭 Currently exploring **Backend and Next.ts**  
-- 🌱 Learning **TypeScript, Socket.IO, WebRTC, PostgreSQL, Testing Frameworks**  
+- 🌱 Learning **TypeScript, Web3, CI/CD, PostgreSQL, Devops, Testing Frameworks**  
 - 👯 Open to collaborating on **Open-source projects (MERN || React + TS)**  
-- 🤝 Need help with **fixes and bugs in the React Job Portal**  
-- 💬 Ask me about **React, JavaScript, Typescript**  
+- 🤝 Need help with **fixes and debugging / project ideas / opensource**  
+- 💬 Ask me about **React, Next, JavaScript, Typescript**  
 - 📫 Reach me at **rajshivam2745@gmail.com**  
-- ⚡ Fun fact: **I thought my programming skills were trash—turns out, I just missed a semicolon! 😅**
+- ⚡ Fun fact: **Fixing bugs > Fixing social life**
 
 ---
 
@@ -40,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
